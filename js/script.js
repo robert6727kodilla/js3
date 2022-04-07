@@ -1,4 +1,5 @@
 {
+//nie wychodzi mi z funkcjami anonimowymi
 const playGame = function(playerInput){
     clearMessages()
     const getMoveName = function(argMoveId){
